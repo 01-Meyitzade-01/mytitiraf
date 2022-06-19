@@ -1,5 +1,5 @@
 # ╔═══════════════════╗ 
-# ║ Developer ŞakirBey║
+# ║ Developer Meyitzade║
 # ╚═══════════════════╝ 
 
 
@@ -21,10 +21,10 @@ etiraf_qrup = int(os.environ.get("ETIRAF_QRUP"))
 kanal = os.environ.get("kanal")
 log_qrup = int(os.environ.get("LOG_QRUP"))
 botad = os.environ.get("BOT_AD")
-etirafmsg = os.environ.get("etirafmsg")
+etirafmsg = os.environ.get("itirafmsg")
 startmesaj = os.environ.get("startmesaj")
-etirafyaz = os.environ.get("etirafyaz")
-qrupstart = os.environ.get("qrupstart")
+etirafyaz = os.environ.get("itirafyaz")
+qrupstart = os.environ.get("grupstart")
 gonderildi = os.environ.get("gonderildi")
 support = os.environ.get("support")
-sahib = os.environ.get("sahib")
+sahib = os.environ.get("sahip")
